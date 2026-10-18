@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-SocketIO/commit/4c4d56b75801fb07c0d00d92bb24f315293b64c7",
       "git:hexsha": "4c4d56b75801fb07c0d00d92bb24f315293b64c7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:03:26.699107+00:00"
     },
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-SocketIO/commit/be1d74829f3a8f2c29898181bdf81d78748c8e3b",
